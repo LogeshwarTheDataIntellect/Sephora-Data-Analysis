@@ -40,3 +40,5 @@ The "Sephora Data Analysis" project provides a comprehensive study of skincare p
 # Acknowledgements
 🙏 Special thanks to contributors, mentors, and the data science community for their invaluable input and support throughout the project.
 
+# For comprehensive details and documentation about this project, please refer to the full documentation available in the same repository.
+
